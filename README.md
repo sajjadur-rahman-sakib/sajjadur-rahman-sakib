@@ -59,3 +59,8 @@
 
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=sajjadur.rahman.sakib&theme=github_dark&disable_animations=true&show_icons=true&force_username=true)](https://codeforces.com/profile/sajjadur.rahman.sakib)<br/>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sajjadurrahmansakib?theme=dark&font=Antonio&ext=heatmap)<br/>
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=sajjadur-rahman-sakib&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+</br>

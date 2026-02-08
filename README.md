@@ -22,7 +22,7 @@
 
 ### 💬 I am happy to address any questions or provide further assistance that you may require. If you need any information or have any queries, feel free to contact me. I will be glad to be in touch with you.
 
-- **Email**: [sajjadur.rahman.sakib.x@gmail.com](mailto:sajjadur.rahman.sakib.x@gmail.com)
+- **Email**: [md.sajjadur.rahman.sakib@gmail.com](mailto:md.sajjadur.rahman.sakib@gmail.com)
 - **Telegram**: [sajjadurrahmansakib](https://t.me/sajjadurrahmansakib)
 - **WhatsApp**: [01518652610](https://wa.me/8801518652610)
 - **Portfolio**: [Sajjadur Rahman Sakib](https://sakib.tech)
